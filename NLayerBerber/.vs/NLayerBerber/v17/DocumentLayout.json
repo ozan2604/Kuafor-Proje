@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\customresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\customresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|c:\\users\\ozan\\desktop\\masa\\yeni klas\u00F6r\\nlayerberber\\nlayer.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.repository\\config\u00FCrations\\hizmetconfig\u00FCration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\config\u00FCrations\\hizmetconfig\u00FCration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.repository\\config\u00FCrations\\adminconfig\u00FCrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\config\u00FCrations\\adminconfig\u00FCrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC30B38-8228-49D2-94EC-F9C3424A0C05}|NLayer.Service\\NLayer.Service.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.service\\validations\\rezervasyondtovlidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC30B38-8228-49D2-94EC-F9C3424A0C05}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\validations\\rezervasyondtovlidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC30B38-8228-49D2-94EC-F9C3424A0C05}|NLayer.Service\\NLayer.Service.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.service\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC30B38-8228-49D2-94EC-F9C3424A0C05}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\unitofworks\\iunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\unitofworks\\iunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\models\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.api\\controllers\\rezervasyoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\rezervasyoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\models\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\yorumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\yorumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\models\\yorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\yorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.api\\controllers\\yorumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\yorumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\yorumupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\yorumupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\rezervasyonupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\rezervasyonupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\rezervasyondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\rezervasyondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.repository\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC30B38-8228-49D2-94EC-F9C3424A0C05}|NLayer.Service\\NLayer.Service.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.service\\mappping\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC30B38-8228-49D2-94EC-F9C3424A0C05}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\mappping\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\models\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.api\\controllers\\\u0130leti\u015Fimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\\u0130leti\u015Fimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\\u0130leti\u015Fimupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\\u0130leti\u015Fimupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\\u0130leti\u015Fimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\\u0130leti\u015Fimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\models\\m\u00FC\u015Fteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\m\u00FC\u015Fteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\models\\kuaf\u00F6r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\kuaf\u00F6r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\models\\\u0130leti\u015Fim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\\u0130leti\u015Fim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.api\\controllers\\kuaf\u00F6rcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\kuaf\u00F6rcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.api\\controllers\\hizmetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\hizmetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.repository\\config\u00FCrations\\m\u00FC\u015Ftericonfig\u00FCration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\config\u00FCrations\\m\u00FC\u015Ftericonfig\u00FCration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\adminloginupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\adminloginupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\adminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\adminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\m\u00FC\u015Fteridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\m\u00FC\u015Fteridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\hizmetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\hizmetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.repository\\config\u00FCrations\\rezervasyonconfig\u00FCration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\config\u00FCrations\\rezervasyonconfig\u00FCration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.repository\\config\u00FCrations\\yorumconfig\u00FCrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\config\u00FCrations\\yorumconfig\u00FCrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.api\\filters\\validatorfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\filters\\validatorfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.api\\controllers\\m\u00FC\u015Ftericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\m\u00FC\u015Ftericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.api\\controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341094B6-5900-4895-98AB-A0B3DA25F37C}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.repository\\config\u00FCrations\\\u0130leti\u015Fimconfig\u00FCration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\config\u00FCrations\\\u0130leti\u015Fimconfig\u00FCration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\kuaf\u00F6rdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\kuaf\u00F6rdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\nlayer.core\\dtos\\hizmetupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3432852-1D76-4E9F-8603-D2205B8DB254}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\hizmetupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Migrations\\20240718195356_ini3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:NLayer.Repository\\Migrations\\20240718195356_ini3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Migrations\\20240718195121_initialize2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:NLayer.Repository\\Migrations\\20240718195121_initialize2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Migrations\\20240717110133_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2791DAC8-7760-4CB0-A0C8-706C0276D651}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:NLayer.Repository\\Migrations\\20240717110133_initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\AdminLogin.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\AdminLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:44:50.536Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RezervasyonDtoVlidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Service\\Validations\\RezervasyonDtoVlidator.cs",
+              "RelativeDocumentMoniker": "NLayer.Service\\Validations\\RezervasyonDtoVlidator.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Service\\Validations\\RezervasyonDtoVlidator.cs",
+              "RelativeToolTip": "NLayer.Service\\Validations\\RezervasyonDtoVlidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:50:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminConfig\u00FCrations.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\AdminConfig\u00FCrations.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\Config\u00FCrations\\AdminConfig\u00FCrations.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\AdminConfig\u00FCrations.cs",
+              "RelativeToolTip": "NLayer.Repository\\Config\u00FCrations\\AdminConfig\u00FCrations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:08:55.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HizmetConfig\u00FCration.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\HizmetConfig\u00FCration.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\Config\u00FCrations\\HizmetConfig\u00FCration.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\HizmetConfig\u00FCration.cs",
+              "RelativeToolTip": "NLayer.Repository\\Config\u00FCrations\\HizmetConfig\u00FCration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:08:06.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Service\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "NLayer.Service\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Service\\Services\\Service.cs",
+              "RelativeToolTip": "NLayer.Service\\Services\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:01:15.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "NLayer.API\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T20:21:07.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\CustomResponseDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\CustomResponseDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\CustomResponseDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\CustomResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:44:31.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "NLayer.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:03:49.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Services\\IService.cs",
+              "RelativeToolTip": "NLayer.Core\\Services\\IService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:26:35.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWorks.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\UnitOfWorks\\IUnitOfWorks.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\UnitOfWorks\\IUnitOfWorks.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\UnitOfWorks\\IUnitOfWorks.cs",
+              "RelativeToolTip": "NLayer.Core\\UnitOfWorks\\IUnitOfWorks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:32:09.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\Admin.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:23:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "NLayer.Repository\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:27:03.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hizmet.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\Hizmet.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\Hizmet.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\Hizmet.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\Hizmet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:22:27.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RezervasyonController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\RezervasyonController.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Controllers\\RezervasyonController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\RezervasyonController.cs",
+              "RelativeToolTip": "NLayer.API\\Controllers\\RezervasyonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:18:25.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rezervasyon.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\Rezervasyon.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\Rezervasyon.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\Rezervasyon.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\Rezervasyon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:12:32.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Yorum.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\Yorum.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\Yorum.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\Yorum.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\Yorum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:45:03.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "YorumDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\YorumDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\YorumDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\YorumDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\YorumDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:55:22.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240718195356_ini3.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Migrations\\20240718195356_ini3.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\Migrations\\20240718195356_ini3.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Migrations\\20240718195356_ini3.cs",
+              "RelativeToolTip": "NLayer.Repository\\Migrations\\20240718195356_ini3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:53:56.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "YorumUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\YorumUpdateDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\YorumUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\YorumUpdateDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\YorumUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:52:46.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "YorumController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\YorumController.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Controllers\\YorumController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\YorumController.cs",
+              "RelativeToolTip": "NLayer.API\\Controllers\\YorumController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAQwIMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:39:26.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RezervasyonUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\RezervasyonUpdateDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\RezervasyonUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\RezervasyonUpdateDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\RezervasyonUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:30:24.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RezervasyonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\RezervasyonDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\RezervasyonDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\RezervasyonDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\RezervasyonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:46:16.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240718195121_initialize2.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Migrations\\20240718195121_initialize2.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\Migrations\\20240718195121_initialize2.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Migrations\\20240718195121_initialize2.cs",
+              "RelativeToolTip": "NLayer.Repository\\Migrations\\20240718195121_initialize2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:51:21.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "\u0130leti\u015Fim.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\\u0130leti\u015Fim.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\\u0130leti\u015Fim.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\\u0130leti\u015Fim.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\\u0130leti\u015Fim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:50:22.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:39:12.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "\u0130leti\u015FimUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\\u0130leti\u015FimUpdateDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\\u0130leti\u015FimUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\\u0130leti\u015FimUpdateDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\\u0130leti\u015FimUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:17:14.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Service\\Mappping\\MapProfile.cs",
+              "RelativeDocumentMoniker": "NLayer.Service\\Mappping\\MapProfile.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Service\\Mappping\\MapProfile.cs",
+              "RelativeToolTip": "NLayer.Service\\Mappping\\MapProfile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:47:19.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "NLayer.Repository\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:32:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "\u0130leti\u015FimDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\\u0130leti\u015FimDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\\u0130leti\u015FimDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\\u0130leti\u015FimDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\\u0130leti\u015FimDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:41:54.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "\u0130leti\u015FimController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\\u0130leti\u015FimController.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Controllers\\\u0130leti\u015FimController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\\u0130leti\u015FimController.cs",
+              "RelativeToolTip": "NLayer.API\\Controllers\\\u0130leti\u015FimController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:19:12.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "M\u00FC\u015Fteri.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\M\u00FC\u015Fteri.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\M\u00FC\u015Fteri.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\M\u00FC\u015Fteri.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\M\u00FC\u015Fteri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:11:16.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Kuaf\u00F6r.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\Kuaf\u00F6r.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\Kuaf\u00F6r.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\Models\\Kuaf\u00F6r.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\Kuaf\u00F6r.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:13:18.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Program.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Program.cs",
+              "RelativeToolTip": "NLayer.API\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAlwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:21:19.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\AppDbContext.cs",
+              "RelativeToolTip": "NLayer.Repository\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:37:55.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240717110133_initialize.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Migrations\\20240717110133_initialize.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\Migrations\\20240717110133_initialize.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Migrations\\20240717110133_initialize.cs",
+              "RelativeToolTip": "NLayer.Repository\\Migrations\\20240717110133_initialize.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:01:33.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Kuaf\u00F6rController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\Kuaf\u00F6rController.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Controllers\\Kuaf\u00F6rController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\Kuaf\u00F6rController.cs",
+              "RelativeToolTip": "NLayer.API\\Controllers\\Kuaf\u00F6rController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:13:09.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HizmetController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\HizmetController.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Controllers\\HizmetController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\HizmetController.cs",
+              "RelativeToolTip": "NLayer.API\\Controllers\\HizmetController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAD4vzsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:38:01.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "M\u00FC\u015FteriConfig\u00FCration.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\M\u00FC\u015FteriConfig\u00FCration.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\Config\u00FCrations\\M\u00FC\u015FteriConfig\u00FCration.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\M\u00FC\u015FteriConfig\u00FCration.cs",
+              "RelativeToolTip": "NLayer.Repository\\Config\u00FCrations\\M\u00FC\u015FteriConfig\u00FCration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:17:29.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\AdminLoginDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\AdminLoginDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\AdminLoginDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\AdminLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:46:00.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\AdminUpdateDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\AdminUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\AdminUpdateDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\AdminUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T21:02:17.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminLoginUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\AdminLoginUpdateDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\AdminLoginUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\AdminLoginUpdateDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\AdminLoginUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:46:57.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "M\u00FC\u015FteriDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\M\u00FC\u015FteriDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\M\u00FC\u015FteriDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\M\u00FC\u015FteriDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\M\u00FC\u015FteriDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:43:03.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HizmetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\HizmetDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\HizmetDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\HizmetDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\HizmetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:40:23.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "YorumConfig\u00FCrations.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\YorumConfig\u00FCrations.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\Config\u00FCrations\\YorumConfig\u00FCrations.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\YorumConfig\u00FCrations.cs",
+              "RelativeToolTip": "NLayer.Repository\\Config\u00FCrations\\YorumConfig\u00FCrations.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:22:32.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RezervasyonConfig\u00FCration.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\RezervasyonConfig\u00FCration.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\Config\u00FCrations\\RezervasyonConfig\u00FCration.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\RezervasyonConfig\u00FCration.cs",
+              "RelativeToolTip": "NLayer.Repository\\Config\u00FCrations\\RezervasyonConfig\u00FCration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:21:03.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ValidatorFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Filters\\ValidatorFilterAttribute.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Filters\\ValidatorFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Filters\\ValidatorFilterAttribute.cs",
+              "RelativeToolTip": "NLayer.API\\Filters\\ValidatorFilterAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:44:35.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "M\u00FC\u015FteriController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\M\u00FC\u015FteriController.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Controllers\\M\u00FC\u015FteriController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\M\u00FC\u015FteriController.cs",
+              "RelativeToolTip": "NLayer.API\\Controllers\\M\u00FC\u015FteriController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:31:15.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CustomBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\CustomBaseController.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Controllers\\CustomBaseController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.API\\Controllers\\CustomBaseController.cs",
+              "RelativeToolTip": "NLayer.API\\Controllers\\CustomBaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T20:08:36.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "\u0130leti\u015FimConfig\u00FCration.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\\u0130leti\u015FimConfig\u00FCration.cs",
+              "RelativeDocumentMoniker": "NLayer.Repository\\Config\u00FCrations\\\u0130leti\u015FimConfig\u00FCration.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Repository\\Config\u00FCrations\\\u0130leti\u015FimConfig\u00FCration.cs",
+              "RelativeToolTip": "NLayer.Repository\\Config\u00FCrations\\\u0130leti\u015FimConfig\u00FCration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:12:15.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Kuaf\u00F6rDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\Kuaf\u00F6rDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\Kuaf\u00F6rDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\Kuaf\u00F6rDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\Kuaf\u00F6rDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:42:29.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HizmetUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\HizmetUpdateDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\HizmetUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\masa\\Yeni klas\u00F6r\\NLayerBerber\\NLayer.Core\\DTOs\\HizmetUpdateDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\HizmetUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:36:00.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

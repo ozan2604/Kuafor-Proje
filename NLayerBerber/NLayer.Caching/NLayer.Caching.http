@@ -1,0 +1,6 @@
+@NLayer.Caching_HostAddress = http://localhost:5103
+
+GET {{NLayer.Caching_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
